@@ -15,3 +15,5 @@ alias lockscreen='/System/Library/CoreServices/"Menu Extras"/User.menu/Contents/
 
 export PATH="/Applications/MATLAB_R2020a.app/bin/:$PATH"
 alias matlab='matlab -nosplash'
+
+alias chrome='/Applications/"Google Chrome.app"/Contents/MacOS/"Google Chrome"'
